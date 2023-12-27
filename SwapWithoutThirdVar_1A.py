@@ -8,24 +8,3 @@ y = x - y
 y = x - y
 
 print("After Swap :", x, y)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
