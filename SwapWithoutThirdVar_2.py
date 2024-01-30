@@ -6,4 +6,4 @@ print("Before Swap :", x, y)
 
 x, y = y, x
 
-print("After Swap :", x,)
+print("After Swap :", x, y)
